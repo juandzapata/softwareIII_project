@@ -28,7 +28,7 @@ export class HomePage {
       {
         imageUrl: '../assets/images/zapa.jpg',
         description: '¡Hola!, soy una persona que siempre se ha visto fascinada por el mundo virtual y tecnológico, gracias a esto las personas que me conocen siempre acuden a mi para que les solucione sus problemas tecnológicos, eso me ha traído hasta ArchiTech.',
-        title: 'Juan David la Zapa'
+        title: 'Juan David Zapata'
       }
     ]
   }
